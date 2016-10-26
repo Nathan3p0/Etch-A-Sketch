@@ -1,0 +1,12 @@
+#container {
+  width: 700px;
+  height: 700px;
+  margin: auto;
+}
+.grid {
+  width: 1.5625%;
+  height:  1.5625%;
+  background-color: grey;
+  /*border: 1px solid black;*/
+  float: left;
+}
